@@ -47,3 +47,26 @@ https://vicky00.atlassian.net/jira/software/projects/SCRUM/boards/1/backlog
 
 📊 **Exercise Sheet:**  
 https://docs.google.com/spreadsheets/d/1rHlhbuKIb6GMGCAwrNPzA5Bme2AjbBfE/edit?usp=sharing&ouid=103015288301700225568&rtpof=true&sd=true
+
+---
+
+### 23.09.2026
+**Work Completed:**
+- Work Completed – Python Code Testing
+- Reviewed the given Python programs and understood their functionality.
+- Analyzed the input conditions and expected outputs of the Python functions.
+- Practiced identifying valid and invalid test inputs for the programs.
+🔗 **Python Sheet:**
+https://drive.google.com/file/d/1DUvr9oJKs9pj-q6ThQUsa_D--7F5L1dW/view?usp=sharing
+  
+### 24.09.2026
+**Work Completed:**
+- Identified and documented 50 test cases for different application functionalities.
+- Executed test cases and recorded Pass/Fail results.
+- Tested valid, invalid, error, security, usability, and end-to-end scenarios.
+- Performed performance testing by recording response times for different operations.
+- Analyzed mean and median response times.
+- Calculated defect density for different application modules.
+
+📊 **Testcase Sheet:**
+https://docs.google.com/spreadsheets/d/1AgMYl3MCEnNoalK94MsD_5rPeBfE9vZC/edit?usp=sharing&ouid=103015288301700225568&rtpof=true&sd=true
