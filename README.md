@@ -70,3 +70,35 @@ https://drive.google.com/file/d/1DUvr9oJKs9pj-q6ThQUsa_D--7F5L1dW/view?usp=shari
 
 📊 **Testcase Sheet:**
 https://docs.google.com/spreadsheets/d/1AgMYl3MCEnNoalK94MsD_5rPeBfE9vZC/edit?usp=sharing&ouid=103015288301700225568&rtpof=true&sd=true
+
+## 29.09.2026 – Python Exercises
+**Work Completed:**
+
+Practiced Python programming.
+Completed 10 Python exercises.
+Practiced input handling, loops, conditions, strings,number conversion,Reverse String and Math Operation.
+📁 Python Exercises:
+
+https://colab.research.google.com/drive/1gjG3zS6H1tk98Pj2kVw2EGAuxqAiw7RW?usp=sharing
+
+
+
+
+## 29.09.2026 – Python Numpy Exercises
+**Work Completed:**
+
+Practiced basic to Advanced Numpy Python programming.
+Completed 15 Python exercises.
+Practiced Array Operation,Mean,Highest,Lowest,Mean,Dimensions,Reshape,Axis and basic Numpy Operations.
+
+📁 Python Exercises:
+https://colab.research.google.com/drive/1A0yxS7bcQHWERpClhoTvZI29fQxH6n9v?usp=sharing
+
+## 29.09.2026 – Python Function Exercises
+**Work Completed:**
+
+Practiced Python Function programming.
+Completed 5 Python exercises.
+Practiced input handling, loops, conditions, strings, Functions Handling and Args.
+📁 Python Exercises:
+https://colab.research.google.com/drive/182jcQtd9m7T9seSwBJVIyndecL_K4anP?usp=sharing
