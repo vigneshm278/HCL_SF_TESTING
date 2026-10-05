@@ -102,3 +102,18 @@ Completed 5 Python exercises.
 Practiced input handling, loops, conditions, strings, Functions Handling and Args.
 📁 Python Exercises:
 https://colab.research.google.com/drive/182jcQtd9m7T9seSwBJVIyndecL_K4anP?usp=sharing
+
+
+## 📅05.10.2026 – Selenium Automation – Task 1
+
+**Work Completed:**
+
+Learned the basics of Selenium WebDriver.
+Automated the SauceDemo login process.
+Entered valid username and password.
+Automated the Login button click.
+Retrieved and printed all 6 product names from the Products page.
+Practiced Selenium locators such as By.ID and By.CLASS_NAME.
+Practiced find_element(), find_elements(), send_keys(), click(), and .text.
+
+🔗 Task 1 Code:
