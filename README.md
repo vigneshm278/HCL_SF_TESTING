@@ -74,9 +74,9 @@ https://docs.google.com/spreadsheets/d/1AgMYl3MCEnNoalK94MsD_5rPeBfE9vZC/edit?us
 ## 29.09.2026 – Python Exercises
 **Work Completed:**
 
-Practiced Python programming.
-Completed 10 Python exercises.
-Practiced input handling, loops, conditions, strings,number conversion,Reverse String and Math Operation.
+- Practiced Python programming.
+- Completed 10 Python exercises.
+- Practiced input handling, loops, conditions, strings,number conversion,Reverse String and Math Operation.
 📁 Python Exercises:
 
 https://colab.research.google.com/drive/1gjG3zS6H1tk98Pj2kVw2EGAuxqAiw7RW?usp=sharing
@@ -87,9 +87,9 @@ https://colab.research.google.com/drive/1gjG3zS6H1tk98Pj2kVw2EGAuxqAiw7RW?usp=sh
 ## 29.09.2026 – Python Numpy Exercises
 **Work Completed:**
 
-Practiced basic to Advanced Numpy Python programming.
-Completed 15 Python exercises.
-Practiced Array Operation,Mean,Highest,Lowest,Mean,Dimensions,Reshape,Axis and basic Numpy Operations.
+- Practiced basic to Advanced Numpy Python programming.
+- Completed 15 Python exercises.
+- Practiced Array Operation,Mean,Highest,Lowest,Mean,Dimensions,Reshape,Axis and basic Numpy Operations.
 
 📁 Python Exercises:
 https://colab.research.google.com/drive/1A0yxS7bcQHWERpClhoTvZI29fQxH6n9v?usp=sharing
@@ -97,9 +97,9 @@ https://colab.research.google.com/drive/1A0yxS7bcQHWERpClhoTvZI29fQxH6n9v?usp=sh
 ## 29.09.2026 – Python Function Exercises
 **Work Completed:**
 
-Practiced Python Function programming.
-Completed 5 Python exercises.
-Practiced input handling, loops, conditions, strings, Functions Handling and Args.
+- Practiced Python Function programming.
+- Completed 5 Python exercises.
+- Practiced input handling, loops, conditions, strings, Functions Handling and Args.
 📁 Python Exercises:
 https://colab.research.google.com/drive/182jcQtd9m7T9seSwBJVIyndecL_K4anP?usp=sharing
 
@@ -108,13 +108,13 @@ https://colab.research.google.com/drive/182jcQtd9m7T9seSwBJVIyndecL_K4anP?usp=sh
 
 **Work Completed:**
 
-Learned the basics of Selenium WebDriver.
-Automated the SauceDemo login process.
-Entered valid username and password.
-Automated the Login button click.
-Retrieved and printed all 6 product names from the Products page.
-Practiced Selenium locators such as By.ID and By.CLASS_NAME.
-Practiced find_element(), find_elements(), send_keys(), click(), and .text.
+- Learned the basics of Selenium WebDriver.
+- Automated the SauceDemo login process.
+- Entered valid username and password.
+- Automated the Login button click.
+- Retrieved and printed all 6 product names from the Products page.
+- Practiced Selenium locators such as By.ID and By.CLASS_NAME.
+- Practiced find_element(), find_elements(), send_keys(), click(), and .text.
 
 🔗 Task 1 Code:
  https://github.com/vigneshm278/HCL_SF_TESTING/blob/main/Vignesh_M_Automation_Testing_Task_1_Final.docx
