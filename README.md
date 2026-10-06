@@ -119,7 +119,7 @@ https://colab.research.google.com/drive/182jcQtd9m7T9seSwBJVIyndecL_K4anP?usp=sh
 🔗 Task 1 Code:
  https://github.com/vigneshm278/HCL_SF_TESTING/blob/main/Vignesh_M_Automation_Testing_Task_1_Final.docx
 
- 📅 06.10.2026 – Selenium Automation – Task 2
+ 📅 06.10.2026 – Selenium Automation – Task 1
 Work Completed:
 - Automated the Registration Form using Selenium WebDriver.
 - Entered First Name and Last Name.
@@ -137,3 +137,20 @@ Work Completed:
   
 🔗 Task  Code:
 https://github.com/vigneshm278/HCL_SF_TESTING/blob/main/Vignesh_M_Selenium_Registration_Form_Report.docx
+
+Selenium Automation – Task 2 Work Completed:
+- Automated the Amazon website using Selenium WebDriver.
+- Automated the Login / Sign In process.
+- Entered mobile number and password.
+- Searched for the Water Bottle product.
+- Selected and opened the product page.
+- Added the product to the cart.
+- Navigated to the shopping cart.
+- Proceeded to the checkout page.
+- Practiced XPath, ID, WebDriverWait, and Expected Conditions.
+- Practiced JavaScript Executor for scrolling and clicking.
+- Practiced handling multiple browser windows/tabs.
+- Verified the automation flow through console output.
+- Captured the automation output for documentation.
+🔗 Task Code:
+
