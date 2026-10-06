@@ -153,4 +153,5 @@ Selenium Automation – Task 2 Work Completed:
 - Verified the automation flow through console output.
 - Captured the automation output for documentation.
 🔗 Task Code:
+https://github.com/vigneshm278/HCL_SF_TESTING/blob/main/AmazonCard.py
 
