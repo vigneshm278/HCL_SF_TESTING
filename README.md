@@ -118,3 +118,21 @@ https://colab.research.google.com/drive/182jcQtd9m7T9seSwBJVIyndecL_K4anP?usp=sh
 
 🔗 Task 1 Code:
  https://github.com/vigneshm278/HCL_SF_TESTING/blob/main/Vignesh_M_Automation_Testing_Task_1_Final.docx
+
+ 📅 06.10.2026 – Selenium Automation – Task 2
+Work Completed:
+- Automated the Registration Form using Selenium WebDriver.
+- Entered First Name and Last Name.
+- Selected the Male gender option.
+- Selected Selenium WebDriver, Java, and TestNG courses.
+- Entered complete address details.
+- Selected India from the Country dropdown using Selenium Select.
+- Entered Email ID.
+- Entered Date of Demo.
+- Practiced XPath locators for form elements.
+- Practiced send_keys(), click(), is_selected(), get_attribute(), and dropdown handling using Select.
+- Verified the entered form values through console output.
+- Captured the automated form output for documentation.
+
+  
+🔗 Task  Code:
