@@ -170,3 +170,22 @@ https://github.com/vigneshm278/HCL_SF_TESTING/blob/main/AmazonCard.py
 
 Task Link:
 https://github.com/vigneshm278/HCL_SF_TESTING/blob/main/Selenium_Automation_Script.docx
+
+
+📅 **08.10.2026 – Selenium Automation – Task Completed**
+
+- Automated the Selenium Web Form using Python and Selenium WebDriver.
+- Entered student name, password, and additional information.
+- Practiced XPath locators including starts-with(), contains(), AND, OR, Parent, Ancestor, Child, and Following.
+- Selected checkbox, radio button, and dropdown options.
+- Used WebDriverWait, Expected Conditions, and Select for form interactions.
+- Counted textboxes and input fields using XPath.
+- Submitted the form and verified the success message.
+- Captured console output and browser screenshots for documentation.
+
+**Evidence:** Selenium automation script, console output, and browser screenshots.
+
+**Status:** PASS – Form Submission Completed Successfully.
+Task Link:
+
+https://github.com/vigneshm278/HCL_SF_TESTING/blob/main/Selenium_Web_Form_Automation_Vignesh_M_212223240177.docx
