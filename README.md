@@ -155,3 +155,17 @@ Selenium Automation – Task 2 Work Completed:
 🔗 Task Code:
 https://github.com/vigneshm278/HCL_SF_TESTING/blob/main/AmazonCard.py
 
+
+📅 **09.10.2026 – Selenium Automation – Task Completed**
+
+- Automated SauceDemo login using Selenium WebDriver.
+- Added products to the cart, removed an item, and clicked Checkout.
+- Used WebDriverWait, Expected Conditions, ID, and XPath locators.
+- Practiced browser tab handling and JavaScript scrolling.
+- Navigated to the Automation Demo Site and handled Accept, Dismiss, and Prompt alerts.
+- Used ActionChains to perform a double-click on a product.
+- Verified automation steps through console output and captured screenshots for documentation.
+
+**Evidence:** Automation script, console output, and browser screenshots.
+
+Task Link:
