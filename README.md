@@ -189,3 +189,23 @@ https://github.com/vigneshm278/HCL_SF_TESTING/blob/main/Selenium_Automation_Scri
 Task Link:
 
 https://github.com/vigneshm278/HCL_SF_TESTING/blob/main/Selenium_Web_Form_Automation_Vignesh_M_212223240177.docx
+
+
+
+📅 **09.10.2026 – Selenium Automation – Task Completed**
+
+- Automated the Web Tables Practice page using Selenium WebDriver.
+- Extracted table headers, first row, and last row data.
+- Searched for employees by last name using Python conditions.
+- Extracted email addresses from all visible employee rows.
+- Identified the maximum salary among the displayed records.
+- Practiced XPath locators and used `find_elements()` to count table rows.
+- Checked hyperlinks inside the employee table.
+- Verified the execution results through console output and captured screenshots for documentation.
+
+**Evidence:** Selenium automation script, console output, and browser screenshots.
+
+**Status:** Completed – 8 Web Table Automation Test Cases.
+
+Task Link: 
+https://github.com/vigneshm278/HCL_SF_TESTING/blob/main/Selenium_Web_Table_Automation_Vignesh_M_Evidence_Report.docx
